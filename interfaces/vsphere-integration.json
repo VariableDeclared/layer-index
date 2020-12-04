@@ -1,6 +1,6 @@
 {
   "id": "vsphere-integration",
   "name": "vsphere-integration",
-  "repo": "https://github.com/VariableDeclared/interface-vsphere-integration/tree/pj/vsphere-zones",
+  "repo": "https://github.com/VariableDeclared/interface-vsphere-integration/",
   "summary": "Interface layer for connecting to the VMware vSphere integration charm"
 }
